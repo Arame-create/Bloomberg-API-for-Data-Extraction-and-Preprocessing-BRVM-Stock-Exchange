@@ -9,3 +9,13 @@ This repository contains an interactive Jupyter Notebook designed analyze market
 * Loads financial data from Bloomberg.         
 * Computes prices, returns, volatilities, and risk-adjusted measures.   
 * Exports structured data to Excel.     
+
+**Getting Started**
+
+You will need to install from statsmodels, blpapi and ipywidgets pip using the following command:
+
+pip install statsmodels   
+
+pip install blpapi         
+
+pip install ipywidgets    
