@@ -14,8 +14,8 @@ This repository contains an interactive Jupyter Notebook designed analyze market
 
 You will need to install from statsmodels, blpapi and ipywidgets pip using the following command:
 
-* pip install statsmodels   
+* !pip install statsmodels   
 
-* pip install blpapi         
+* !pip install blpapi         
 
-* pip install ipywidgets    
+* !pip install ipywidgets    
