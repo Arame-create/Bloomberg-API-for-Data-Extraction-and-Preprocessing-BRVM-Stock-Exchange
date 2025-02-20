@@ -1,4 +1,4 @@
-**OVERVIEW**
+## OVERVIEW
 
 This repository contains an interactive Jupyter Notebook designed analyze market data from Bloomberg (BBG).             
 
