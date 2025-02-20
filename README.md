@@ -19,3 +19,9 @@ You will need to install from statsmodels, blpapi and ipywidgets pip using the f
 * !pip install blpapi         
 
 * !pip install ipywidgets    
+
+## User Interface Preview
+
+Here’s what the platform looks like:
+
+![UI Preview](ui_preview.png)
