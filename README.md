@@ -1,6 +1,6 @@
 ## OVERVIEW
 
-This repository contains an interactive Jupyter Notebook designed analyze market data from Bloomberg (BBG).             
+This repository contains an interactive Jupyter Notebook designed to analyze market data from Bloomberg (BBG).             
 
 **DONNEES SUR BBG-3.ipynb**   
 
